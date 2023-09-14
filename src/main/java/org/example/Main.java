@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("Hello and welcome! This is Practise Jenkins projects");
 
+        System.out.printf("Hello and welcome! This is Practise Jenkins projects,THis is succefull configuration");
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
       
